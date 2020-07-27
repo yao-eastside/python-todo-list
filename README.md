@@ -22,4 +22,4 @@ c.update(x=1000)
 * ❓ &nbsp;[import] import matplotlib.pyplot as plt vs from matplotlib import pyplot as plt
 * ❓ &nbsp;[generator] generators, coroutines, etc
 * ❓ &nbsp;[OOP] OOP, magic functions, decorators, etc
-* ❓ &nbsp;[visulization] use funcAnimation in matplotlib.animation
+* ❓ &nbsp;[visualization] use funcAnimation in matplotlib.animation
