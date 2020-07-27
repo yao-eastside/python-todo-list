@@ -1,5 +1,7 @@
 # python-todo-list
 
+* ❓ &nbsp;[fundamental] shallow copy vs deep copy, values vs references
+❓ &nbsp;[scope] lexical scope
 * ❓ &nbsp;[list] a slicing of a list is a (shallow) copy of the original list. Change it will not change the original one.
 * ✅ &nbsp;[dict] sort dict by values
 ```python
