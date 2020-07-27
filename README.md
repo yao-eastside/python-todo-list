@@ -17,3 +17,4 @@ b.add(1000)
 c = {'a':10, 'b':100, 'c':1}
 c.update(x=1000)
 ```
+❓ &nbsp;[import] import matplotlib.pyplot as plt vs from matplotlib import pyplot as plt
