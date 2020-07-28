@@ -23,3 +23,4 @@ c.update(x=1000)
 * ❓ &nbsp;[generator] generators, coroutines, etc
 * ❓ &nbsp;[OOP] OOP, magic functions, decorators, etc
 * ❓ &nbsp;[visualization] use funcAnimation in matplotlib.animation
+* ❓ &nbsp;[OOP] class attributes vs object attributes in Python?
