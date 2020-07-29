@@ -24,5 +24,5 @@ c.update(x=1000)
 * ❓ &nbsp;[OOP] OOP, magic functions, decorators, etc
 * ❓ &nbsp;[visualization] use funcAnimation in matplotlib.animation
 * ❓ &nbsp;[OOP] class attributes vs object attributes in Python? My answer is No.
-* ❓ &nbsp;[OOP] why does __iadd__ return self?
+* ❓ &nbsp;[OOP] why does \_\_iadd\_\_ return self?
 
