@@ -26,3 +26,9 @@ c.update(x=1000)
 * ❓ &nbsp;[OOP] class attributes vs object attributes in Python? My answer is No.
 * ❓ &nbsp;[OOP] why does \_\_iadd\_\_ return self?
 
+* ❓
+
+* ❓ &nbsp; Machine Learning
+* ❓ &nbsp; Deep Learning
+* ❓ &nbsp; Big Data
+
